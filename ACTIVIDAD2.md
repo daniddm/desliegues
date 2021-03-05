@@ -75,3 +75,5 @@ Despues tenemos que usar el comando **sudo apt install mariadb-client**
 Luego lo iniciamos CON EL COMANDO **sudo systemctl start mariadb** y hacemso que se ejecute de manera automativa **sudo systemctl enable mariadb** y para ver si esta conectado lo probamos con **systemctl status mariadb**
 
 cambios 1
+
+dddddd
