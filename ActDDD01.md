@@ -51,5 +51,6 @@ En **nslookup** veremos el dominio, servido y direccion de l direccion web intro
 En el **curl** vemos la conexion, llamando a una direccion y bien podemos descargarnos su estructura HTML guardando la misma por ejemplo o  desacargar archivos. 
 
 cambio 1
+cambios 2
 
 
