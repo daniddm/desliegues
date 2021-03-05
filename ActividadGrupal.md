@@ -286,3 +286,4 @@ Si solicitamos un fichero, este aparece en el navegador (en este caso, el listad
 ![16](ImagenesFTP/16.png)
 
 sss
+ssss
